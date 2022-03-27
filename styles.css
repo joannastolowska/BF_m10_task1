@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #9DB7CF;
+}
+
+.web-felis {
+    max-width: 1440px;
+    max-height: 6234px;
+    background: #F1EAE4;
+}
+
+.navigation-menu {
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 67px;
+    padding-right: 67px;
+}
+
+.shop-now, .lookbook, .search, .cart, .elipse {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-size: 16.9628px;
+    line-height: 20px;
+}
+
+.title {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-size: 52.9025px;
+    line-height: 90px;
+}
+
+.elipse {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    color: black;
+}
+
+.part-one {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    max-width: 100%;
+}
+
+#icon-one {
+    padding-bottom: 26px;
+}
+
+.subtitle-one {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 94px;
+}
+
+h3, h4 {
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 62.844px;
+    line-height: 80px;
+    color: #1D1B19;
+    font-family: 'Selna';
+}
+
+h4 {
+    font-size: 18px;
+    line-height: 21px;
+    color: #1D1B19;
+    font-family: 'Helvetica';
+    text-decoration: underline;
+    padding-top: 38px;
+}
+
+.subtitle-two {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 66px;
+    padding-right: 64px;
+    padding-top: 144px;
+    padding-bottom: 71px;
+}
+
+.text-two {
+    font-family: 'Selna';
+    font-size: 50px;
+    line-height: 85px;
+    text-transform: uppercase;
+}
+
+.text-tree {
+    font-family: 'Helvetica';
+    font-size: 20.1783px;
+    line-height: 23px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.row-one {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 67px;
+    padding-right: 66px;
+}
+
+.row-two {
+    display: flex;
+    justify-content: center;
+}
+
+h5 {
+    font-family: 'Helvetica';
+    font-size: 22px;
+    line-height: 25px;
+    color: #1D1B19;
+ }
+
+h6 {
+    font-family: 'Helvetica';
+    font-size: 20.2035px;
+    line-height: 23px;
+    color: rgba(29, 27, 25, 0.72);
+}
+
+.part-tree {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ul {
+    font-family: 'Selna';
+    color: #1D1B19;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 56.377px;
+    line-height: 96px;
+    text-align: center;
+}
